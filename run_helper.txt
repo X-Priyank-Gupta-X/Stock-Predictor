@@ -3,3 +3,10 @@ open anaconda prompt
 conda activate stock-predictor
 cd C:\Users\Kush\OneDrive\Academics\Project\Stock Prediction Model
 streamlit run stock_predictor.py
+
+
+pandas==1.4.4
+plotly==5.22.0
+prophet==1.1.5
+streamlit==1.36.0
+yfinance==0.2.40
