@@ -6,6 +6,8 @@ from prophet.plot import plot_plotly  # Plotting function for Prophet
 from plotly import graph_objs as go  # Plotly for interactive plots
 import pandas as pd  # Data manipulation library
 
+
+
 # Define the start date for historical data and today's date
 START = "2016-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
