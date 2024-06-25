@@ -1,0 +1,5 @@
+open anaconda prompt
+
+conda activate stock-predictor
+cd C:\Users\Kush\OneDrive\Academics\Project\Stock Prediction Model
+streamlit run stock_predictor.py
